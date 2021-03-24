@@ -1,0 +1,43 @@
+* {
+    font-family: 'Space Grotesk', sans-serif;
+    background-color: #4C577B;
+}
+
+h1 {
+    text-align: center;
+    background-color: #2F4858;
+    color: #E5736E;
+}
+
+p {
+    text-align: center;
+    color: #E5736E;
+    background-color: #2F4858;
+}
+
+.tip-container {
+    text-align: center;
+    background-color: #2F4858;
+}
+
+.center {
+    margin: 10vh 20vw;
+    width: 40vw;
+    min-height: 45vh;
+    padding: 8vh 8vw;
+    border-radius: 5px;
+    background-color: #2F4858;
+    border: 8px solid #BD6389;
+}
+
+.date {
+    font-size: 24px;
+    color: #EE964B;
+    background-color: #2F4858;
+}
+
+.tip {
+    font-size: 20px;
+    color: #EE964B;
+    background-color: #2F4858;
+}
