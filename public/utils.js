@@ -32,8 +32,3 @@ export const dailyTips = [
     '3.2.2: Navigational mechanisms that are repeated on multiple Web pages within a set of Web pages occur in the same relative order each time they are repeated, unless a change is initiated by the user.'
 ]
 
-// export const dailyTipsObject = {
-//     "3-23": "Don't use divs",
-//     "3-24": "Use sections",
-// }
-
